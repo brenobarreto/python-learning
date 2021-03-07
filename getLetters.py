@@ -5,3 +5,6 @@ def getLetters(word):
         letters.append(word[i])
         i+=1
     return letters
+
+nameLetters = getLetters("Breno")
+print(nameLetters)
