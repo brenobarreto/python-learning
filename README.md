@@ -1,3 +1,3 @@
 # python-learning
 
-Just some exercises to help me learn Python and apply Computer Science concepts and techniques.
+Just some exercises to help me learn Python and apply some Computer Science concepts and techniques.
