@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 # Copyright 2009-2017 BHG http://bw.org/
 
-def incrementer(a):
-    print(a + 1)
+x = 6
+y = 3
+z = x // y
 
-x = incrementer
-
-x(5)
-
+print(f'result is {z}')
